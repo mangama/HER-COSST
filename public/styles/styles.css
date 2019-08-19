@@ -1,0 +1,52 @@
+.list-group-item {
+  line-height: 2.5;
+}
+
+
+.container {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+nav,
+.container,
+.statePie {
+  margin-bottom: 50px;
+}
+
+
+#myBarChart,
+#myPieChart,
+#personalBar,
+#personalPie,
+#avgBarChart,
+#avgTaxBarChart,
+#avgBar,
+#taxAvgBar,
+#stPieChart,
+#statePieChart, 
+.container{
+  padding: 20px;
+}
+
+.rowPersonal {
+  padding: 30px;
+}
+
+#her {
+  font-size: 120px;
+  margin-bottom: 0px;
+}
+
+#cosst {
+  font-size: 70px;
+  margin-bottom: 0px;
+}
+
+#costsatax {
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+
+#surveyIntro {
+  font-size: 20px;
+}

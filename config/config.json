@@ -1,0 +1,22 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "survey",
+    "port": 8889,
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "survey",
+    "host": "localhost",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "use_env_variable": "JAWSDB_URL",
+    "dialect": "mysql"
+  }
+}
